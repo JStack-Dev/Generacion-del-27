@@ -1,2 +1,1 @@
-Mi primer repositorii
-o
+Mi primer repositorio
