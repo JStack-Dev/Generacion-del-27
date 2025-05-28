@@ -1,4 +1,4 @@
-Mi primer proyecto de mi repositorio.
+Mi primer proyecto de mi repositorio, haciendo scraping.
 
 ### 📚 Qué hace este código
 
